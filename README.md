@@ -2,7 +2,7 @@
 
 A design productivity plugin primarily designed for [Cowork](https://claude.com/product/cowork), Anthropic's agentic desktop application — though it also works in Claude Code. Helps with design critique, system management, UX writing, accessibility, research synthesis, and developer handoff. Works with any design team — standalone with your input, supercharged when you connect Figma and other tools.
 
-**Notes:***this is not official Anthropic Plugin and not one used!
+**Notes:** this is not official Anthropic Plugin and not one used!
 
 ## Installation
 
@@ -28,16 +28,16 @@ All commands work **standalone** (describe your design or paste screenshots) and
 
 ## Skills
 
-Domain knowledge Claude with Tank 911 uses automatically when relevant:
-
 ### Claude
+
+Domain knowledge Claude uses automatically when relevant:
 
 | Skill | Description |
 |---|---|
 | `design-critique` | Evaluate designs for usability, visual hierarchy, consistency, and adherence to design principles |
 | `design-system-management` | Manage design tokens, component libraries, and pattern documentation |
 | `ux-writing` | Write effective microcopy — clear, concise, consistent, and brand-aligned |
-| `accessibility-review` | Audit designs and code for WCAG 2.1 AA compliance |
+| `accessibility-review` | Audit designs and code for WCG 2.1 AA compliance |
 | `user-research` | Plan, conduct, and synthesize user research — interviews, surveys, usability testing |
 | `design-handoff` | Create comprehensive developer handoff documentation from designs |
 
